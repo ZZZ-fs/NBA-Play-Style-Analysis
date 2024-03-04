@@ -1,4 +1,4 @@
-# NBA-Play-Style-Analysis
+# NBA Play Style Analysis
 
 Contributor: Fengsheng Zhou, Jinghong Chen, Yihan Shi, Zhihong Li
 
